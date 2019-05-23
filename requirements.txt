@@ -1,0 +1,17 @@
+Click >= 7.0	
+Flask >= 1.0.2	
+Flask-SocketIO ==3.3.2
+Jinja2 >= 2.10
+MarkupSafe >= 1.1.1	
+Werkzeug >= 0.15.0	
+celery >= 4.3.0		
+python-socketio <4,>=2.1.0
+redis >= 3.2.1	
+APScheduler >= 3.6.0
+psycopg2-binary>= 2.7
+python-engineio >= 3.5.1
+kombu >= 4.5.0
+pandas >= 0.23.4
+elasticsearch >= 6.3.1,<7.0.0
+pyarrow >= 0.12.0
+pyspark >= 2.4.0
