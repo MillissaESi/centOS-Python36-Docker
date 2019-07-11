@@ -11,7 +11,7 @@ APScheduler >= 3.6.0
 psycopg2-binary>= 2.7
 python-engineio >= 3.5.1
 kombu >= 4.5.0
-pandas == 0.24.1
+pandas >= 0.24.1
 elasticsearch >= 6.3.1,<7.0.0
-pyarrow == 0.12.1
-pyspark == 2.4.0
+pyarrow >= 0.12.1
+pyspark >= 2.4.0
