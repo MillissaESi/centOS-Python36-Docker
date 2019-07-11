@@ -4,9 +4,9 @@ Flask-SocketIO ==3.3.2
 Jinja2 >= 2.10.1
 MarkupSafe == 1.1.1	
 Werkzeug == 0.15.0	
-celery == 4.3.0		
+celery >= 4.3.0		
 python-socketio <4,>=2.1.0
-redis == 3.2.1	
+redis >= 3.2.1	
 APScheduler >= 3.6.0
 python-engineio == 3.5.1
 kombu == 4.5.0
